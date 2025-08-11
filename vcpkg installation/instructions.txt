@@ -1,0 +1,21 @@
+1. Go to C drive
+
+2. Make a folder by the name "dev"
+
+3. Extract the zip file there
+
+4. Navigate to the extracted folder: 
+	cd C:\dev\vcpkg-master
+	
+5. Run this command, it will build the vcpkg.exe tool: 
+	bootstrap-vcpkg.bat
+	
+6. Add vcpkg to PATH so you can run vcpkg from anywhere::
+	setx PATH "%PATH%;C:\dev\vcpkg-master"
+	
+7. Install libs:
+	C:\dev\-master\vcpkg.exe install glfw3:x64-windows glew:x64-windows
+
+
+
+
