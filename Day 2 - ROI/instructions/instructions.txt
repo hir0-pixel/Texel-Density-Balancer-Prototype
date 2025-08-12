@@ -1,0 +1,8 @@
+1. Take the stb_image.h file and paste it into
+	C:\dev\VramGovernor\third_party\stb_image.h
+	
+2. Edit CMakeLists.txt to include the third_party folder:
+	target_include_directories(vram_app PRIVATE third_party)
+	
+3. create a folder by the name "assets" inside vram governor and place an image there, for this code to run the image name should be "checker.png" but u can change it
+

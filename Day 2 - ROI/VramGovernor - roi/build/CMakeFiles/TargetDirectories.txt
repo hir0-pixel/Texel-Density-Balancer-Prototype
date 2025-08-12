@@ -1,0 +1,3 @@
+C:/dev/VramGovernor - roi/build/CMakeFiles/vram_app_roi.dir
+C:/dev/VramGovernor - roi/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/VramGovernor - roi/build/CMakeFiles/ZERO_CHECK.dir

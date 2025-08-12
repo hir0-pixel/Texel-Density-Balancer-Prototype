@@ -1,0 +1,10 @@
+^C:\DEV\VRAMGOVERNOR - ROI\BUILD\CMAKEFILES\D170DE6994B0DDD472C34D8D2CE4D6D4\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/dev/VramGovernor - roi" "-BC:/dev/VramGovernor - roi/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/dev/VramGovernor - roi/build/VramGovernorROI.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
