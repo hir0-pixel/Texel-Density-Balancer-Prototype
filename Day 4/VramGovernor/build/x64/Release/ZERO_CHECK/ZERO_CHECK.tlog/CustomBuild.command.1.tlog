@@ -1,0 +1,10 @@
+^C:\DEV\VRAMGOVERNOR\BUILD\CMAKEFILES\D75B82E1173F9D95C3C8C2D729A33383\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/VramGovernor -BC:/dev/VramGovernor/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/VramGovernor/build/VramGovernor.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
