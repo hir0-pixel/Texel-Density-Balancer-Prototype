@@ -1,0 +1,52 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeDependentOption.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/ExternalProject/shared_internal_commands.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FetchContent.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindOpenGL.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Linker/MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-4.1/Modules/SelectLibraryConfigurations.cmake
+C:/dev/VramGovernor/CMakeLists.txt
+C:/dev/VramGovernor/build/CMakeFiles/4.1.0-rc4/CMakeCXXCompiler.cmake
+C:/dev/VramGovernor/build/CMakeFiles/4.1.0-rc4/CMakeRCCompiler.cmake
+C:/dev/VramGovernor/build/CMakeFiles/4.1.0-rc4/CMakeSystem.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/glew-config.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/glew-targets-debug.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/glew-targets-release.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/glew-targets.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Config.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake
+C:/dev/vcpkg/vcpkg-master/installed/x64-windows/share/glfw3/glfw3Targets.cmake
+C:/dev/vcpkg/vcpkg-master/scripts/buildsystems/vcpkg.cmake
