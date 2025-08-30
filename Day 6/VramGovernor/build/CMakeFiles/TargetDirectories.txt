@@ -1,0 +1,3 @@
+C:/dev/VramGovernor/build/CMakeFiles/VramGovernorDay6.dir
+C:/dev/VramGovernor/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/VramGovernor/build/CMakeFiles/ZERO_CHECK.dir
