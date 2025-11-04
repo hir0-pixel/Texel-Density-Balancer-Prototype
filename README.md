@@ -1,6 +1,6 @@
 # Texel Density Balancer — VRAM Governor (Prototype)
 
-This repository contains a prototype system that dynamically adjusts texel density in real time based on GPU VRAM usage. The goal is to maintain rendering stability and visual consistency while preventing memory exhaustion on GPUs, particularly for high-resolution medical visualization and dense 3D scenes.
+This contains a prototype system that dynamically adjusts texel density in real time based on GPU VRAM usage. The goal is to maintain rendering stability and visual consistency while preventing memory exhaustion on GPUs, particularly for high-resolution medical visualization and dense 3D scenes.
 
 The project follows a day-by-day learning and development progression. Each day’s folder represents an incremental improvement stage, and files may repeat as concepts build from fundamentals toward a fully adaptive VRAM-aware texture pipeline.
 
